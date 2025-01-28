@@ -62,13 +62,6 @@ body{
     font-size:14px;
     text-indent: -2px;
 }
-/* ul{
-    list-style-image: url("images/icon-list.svg");
-    padding-inline-start: 27px;
-}    
-li::marker{
-    size: 7px;
-}*/
 
 li::before {
     content: url("images/icon-list.svg");
